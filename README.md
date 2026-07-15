@@ -20,7 +20,7 @@
 - ⚡ Vorher ging ich auf ein Berufliches Gymnasium wo ich schon 3 Jahre Informatik Unterricht hatte
 
 
-### 🛠️ Languages and Tools
+### 🛠️ Sprachen und Tools die ich gerade lerne oder schonmal genutzt habe
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
