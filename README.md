@@ -19,21 +19,6 @@
 - 💬 Frag mich zu **...**
 - ⚡ Fun Fact: **...**
 
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<!-- Beispiele – Links anpassen oder Zeilen entfernen -->
-<a href="https://www.linkedin.com/in/DEIN-LINKEDIN" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/DEIN-INSTAGRAM" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="30" height="30"/>
-</a>
-</p>
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -64,15 +49,3 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
