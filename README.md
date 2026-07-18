@@ -17,8 +17,6 @@
 - 🎓 Ich studiere aktuell Informatik und bin jetzt gerade im ersten Semester
 - 🔭 Momentan arbeite ich an meinen Python fähigkeiten, da ich mich vorallem in dem Bereich verbessern will
 - 🌱 Ich lerne gerade für eine Cloud fokussierte Karriere
-- 💬 Frag mich zu allem was du auf meinem Profil finden kannst, falls ich mich noch erinner...
-- ⚡ Vorher ging ich auf ein Berufliches Gymnasium wo ich schon 3 Jahre Informatik Unterricht hatte
 
 ### 🤖 AI-gestütztes Lernen & Coding
 - 🤝 Ich nutze **Claude Code** als Coding-Assistenten – zum Debuggen, Refactoring und um mich beim Lernen neuer Konzepte zu unterstützen
