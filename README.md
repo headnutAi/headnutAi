@@ -12,7 +12,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### 🙋‍♂️ Über mich
 
 - 🎓 Ich studiere aktuell Informatik und bin jetzt gerade im ersten Semester
 - 🔭 Momentan arbeite ich an meinen Python fähigkeiten, da ich mich vorallem in dem Bereich verbessern will
