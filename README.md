@@ -14,11 +14,11 @@
 
 ### 🙋‍♂️ Über mich
 
-- 🎓 Ich studiere aktuell Informatik und bin jetzt gerade im ersten Semester
+- 🎓 Ich studiere aktuell Informatik und bin jetzt gerade im 1. Semester
 - 🔭 Momentan arbeite ich an meinen Python fähigkeiten, da ich mich vorallem in dem Bereich verbessern will
 - 🌱 Ich lerne gerade für eine Cloud fokussierte Karriere
 
-### 🤖 AI-gestütztes Lernen & Coding
+### 🤖 AI-gestütztes Lernen und Coding
 - 🤝 Ich nutze **Claude Code** als Coding-Assistenten – zum Debuggen, Refactoring und um mich beim Lernen neuer Konzepte zu unterstützen
 - 📚 Perfekt für Erklärungen zu Themen, an denen ich gerade dran bin, und für Code-Reviews meiner Projekte
 
