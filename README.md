@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, ich bin Demian</h1>
-<h3 align="center">Informatik-Student · mal mehr, mal weniger aktiv auf GitHub 🚀</h3>
+<h3 align="center">Informatik-Student 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Ich+studiere+Informatik;Ich+baue+gerne+kleine+Projekte;Immer+neugierig+auf+neue+Tech" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 - 🤝 Ich nutze **Claude Code** als Coding-Assistenten – zum Debuggen, Refactoring und um mich beim Lernen neuer Konzepte zu unterstützen
 - 📚 Perfekt für Erklärungen zu Themen, an denen ich gerade dran bin, und für Code-Reviews meiner Projekte
 
-### 🛠️ Sprachen und Tools die ich gerade lerne oder schonmal genutzt habe
+### 🛠️ Was ich schon mal benutzt habe oder gerade lerne
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
