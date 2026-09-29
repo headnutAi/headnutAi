@@ -84,6 +84,7 @@ Praktische Übungen auf TryHackMe, extra gruppiert nach Themengebiet.
 
 | Room | Fokus | Tools & Skills |
 |------|-------|----------------|
+| [Intro to IaC](https://tryhackme.com/room/introtoiac) | Infrastructure as Code, Provisionierung | Terraform, Ansible, HCL |
 | [K8s Best Security Practices](https://tryhackme.com/room/k8sbestsecuritypractices) | Cluster-Härtung | RBAC, Network Policies, kubectl |
 
 ### 🌐 Netzwerk & Enumeration
