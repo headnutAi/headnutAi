@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, ich bin Demian</h1>
+<h1 align="center">Hey 👋</h1>
 <h3 align="center">Informatik Student 🚀</h3>
 
 <p align="center">
