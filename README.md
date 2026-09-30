@@ -94,24 +94,5 @@ Praktische Übungen auf TryHackMe, extra gruppiert nach Themengebiet.
 | [Introductory Networking](https://tryhackme.com/room/introtonetworking) | OSI/TCP-IP, Netzwerk-Analyse | Wireshark, nmap, dig, traceroute |
 | [What is Networking?](https://tryhackme.com/room/whatisnetworking) | Netzwerk-Grundlagen | IP, MAC, ping |
 
-### 🕸️ Web Application Security
 
-| Room | Fokus | Tools & Skills |
-|------|-------|----------------|
-| [SQL Injection](https://tryhackme.com/room/sqlinjectionlm) | Erkennen und Ausnutzen von SQLi | UNION-, Blind- und Time-based SQLi |
-
-### 🧭 Methodik & Ethik
-
-| Room | Fokus | Tools & Skills |
-|------|-------|----------------|
-| [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) | Rules of Engagement, Vorgehensmodelle | OSSTMM, OWASP, NIST |
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=headnutAi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=headnutAi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=headnutAi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
